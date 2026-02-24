@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s06j1nr",
-  "description": "https://scrimba.com/learn-react-c0e/~02el",
+  "name": "Assembly-Endgame",
+  "description": "Get the word right to save the world from assembly",
   "scripts": {
     "start": "vite",
     "dev": "vite",
