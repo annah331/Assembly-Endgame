@@ -1,8 +1,40 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Assembly Endgame
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
+## 📌 Overview
+A small interactive web game inspired by classic puzzle mechanics.
+
+Built to practice user interaction handling and animation logic.
+
+---
+
+## 🚀 Live Demo
+🔗 https://assembly-endgame05.netlify.app/
+
+---
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## ✨ Features
+- Interactive gameplay
+- Dynamic UI updates
+- Simple animation effects
+- Responsive layout
+
+---
+
+## 📚 Key Concepts Practiced
+- Event-driven programming
+- UI state updates
+- Game logic structuring
+- Debugging and iteration
+
+---
+
+## 👩🏽‍💻 Author
+Annah Molekoa  
+Junior Full-Stack Developer
