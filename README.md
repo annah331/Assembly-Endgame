@@ -16,6 +16,7 @@ Built to practice user interaction handling and animation logic.
 - HTML5
 - CSS3
 - JavaScript
+- React
 
 ---
 
