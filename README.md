@@ -38,4 +38,4 @@ Built to practice user interaction handling and animation logic.
 
 ## 👩🏽‍💻 Author
 Annah Molekoa  
-Junior Full-Stack Developer
+Junior Frontend Developer
